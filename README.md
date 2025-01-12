@@ -8,6 +8,9 @@ You're the snake and need to eat the food to get points without hitting the edge
 
 1 point per piece of food eaten.
 
+<img width="602" alt="Screenshot 2025-01-12 at 15 15 18" src="https://github.com/user-attachments/assets/969f8b0b-751f-422b-b23c-a62cfbfb0376" />
+
+
 ## Quickstart
 
 1. Install Python (this was built on Python 3.13.1 but it might work on other versions)
